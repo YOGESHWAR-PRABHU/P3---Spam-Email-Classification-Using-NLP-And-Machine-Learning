@@ -36,8 +36,9 @@ This project demonstrates an end-to-end implementation of a spam email classific
 ### **1. Clone the Repository**
 
 ```bash
-git clone https://github.com/your-username/spam-email-classifier.git
-cd spam-email-classifier
+git clone https://github.com/YOGESHWAR-PRABHU/SafeMailAI.git
+cd SafeMailAI
+
 ```
 
 ### **2. Install Required Libraries**
