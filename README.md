@@ -99,6 +99,7 @@ Install these libraries via `pip` if they are not already installed.
 ## **Screenshots**
 
 ### GUI Interface  
-*(Add an image of your GUI application here once ready.)*
+![Screenshot 2024-12-07 194522](https://github.com/user-attachments/assets/e84695fa-60df-41bd-b544-5afaf682299e)
+
 
 ---
