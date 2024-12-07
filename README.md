@@ -105,7 +105,6 @@ Install these libraries via `pip` if they are not already installed.
 ![Screenshot 2024-12-07 194657](https://github.com/user-attachments/assets/1dce6859-f322-4c6b-b8d6-a1874d5a3f36)
 ![Screenshot 2024-12-07 194919](https://github.com/user-attachments/assets/5065f1ac-0efb-4788-a936-50b7533f4a17)
 ![Screenshot 2024-12-07 194933](https://github.com/user-attachments/assets/ae39cc7c-cca4-4426-bb89-682560c168ad)
-![Screenshot 2024-12-07 195021](https://github.com/user-attachments/assets/5ee7a0e6-a1f1-434f-8d2a-410c9483ede7)
 ![Screenshot 2024-12-07 195033](https://github.com/user-attachments/assets/0fbf3561-e5c3-4ea8-b305-d0264c835dc4)
 
 ---
