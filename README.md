@@ -36,8 +36,9 @@ This project demonstrates an end-to-end implementation of a spam email classific
 ### **1. Clone the Repository**
 
 ```bash
-https://github.com/YOGESHWAR-PRABHU/P3-Spam-Email-Classification-Using-NLP-And-Machine-Learning.git
+git clone https://github.com/YOGESHWAR-PRABHU/P3-Spam-Email-Classification-Using-NLP-And-Machine-Learning.git
 cd P3-Spam-Email-Classification-Using-NLP-And-Machine-Learning
+
 
 ```
 
