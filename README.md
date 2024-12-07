@@ -55,7 +55,7 @@ pip install -r requirements.txt
 To execute the code and train the model, open the Jupyter Notebook and run each cell sequentially:
 
 ```bash
-jupyter notebook spam_email_classifier.ipynb
+jupyter notebook "Spam Email Detector.ipynb"
 ```
 
 ### **4. Launch the GUI Application**
