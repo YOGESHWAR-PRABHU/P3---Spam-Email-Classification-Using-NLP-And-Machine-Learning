@@ -59,8 +59,8 @@ jupyter notebook is "Spam Email Detector.ipynb"
 ```
 ### **4.To Run the Python Code**
 
-To execute the code, Install all the dependencies required to run the Streamlit App, And Make sure you install and actvate the Latest Python Environment in The VsCode. 
-Next, Open the Terminal in VsCode and execute the following command:
+To execute the code, Install all the dependencies required to run the Streamlit App, And Make sure you Install and Activate the Latest Python Environment in The VsCode. 
+Next, Open the Terminal in VsCode and execute the following Command:
 
 ```bash
 streamlit run SpamEmailDetector.py
