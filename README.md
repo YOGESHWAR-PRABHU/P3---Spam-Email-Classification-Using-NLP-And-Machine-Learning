@@ -57,8 +57,15 @@ To execute the code and train the model, open the Jupyter Notebook and run each 
 ```bash
 jupyter notebook "Spam Email Detector.ipynb"
 ```
+### **4. Run the Python Code**
 
-### **4. Launch the GUI Application**
+To execute the code, open the terminal in VsCode and execute the following command:
+
+```bash
+streamlit run SpamEmailDetector.py
+```
+
+### **5. Launch the GUI Application**
 
 After training the model, run the GUI code cell in the Jupyter Notebook to launch the interactive application.
 
