@@ -50,16 +50,17 @@ Ensure you have Python installed on your system. Install the required dependenci
 pip install -r requirements.txt
 ```
 
-### **3. Run the Jupyter Notebook**
+### **3.To Run the Jupyter Notebook**
 
 To execute the code and train the model, open the Jupyter Notebook and run each cell sequentially:
 
 ```bash
-jupyter notebook "Spam Email Detector.ipynb"
+jupyter notebook is "Spam Email Detector.ipynb"
 ```
-### **4. Run the Python Code**
+### **4.To Run the Python Code**
 
-To execute the code, open the terminal in VsCode and execute the following command:
+To execute the code, Install all the dependencies required to run the Streamlit App, And Make sure you install and actvate the Latest Python Environment in The VsCode. 
+Next, Open the Terminal in VsCode and execute the following command:
 
 ```bash
 streamlit run SpamEmailDetector.py
