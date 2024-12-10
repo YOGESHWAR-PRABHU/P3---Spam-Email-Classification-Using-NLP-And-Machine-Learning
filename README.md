@@ -1,4 +1,4 @@
-# **Spam Email Classification with Machine Learning**
+# **Spam Email Classification Using NLP And Machine Learning**
 
 This project demonstrates an end-to-end implementation of a spam email classification system using **Natural Language Processing (NLP)** and **machine learning techniques**. The model is built using Python libraries such as `scikit-learn`, `pandas`, and `numpy`, and features a user-friendly GUI application created with `Tkinter`. The system helps classify emails as either **Spam** or **Not Spam**, offering an intuitive solution to secure inboxes.
 
